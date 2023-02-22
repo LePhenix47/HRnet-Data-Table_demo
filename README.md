@@ -53,13 +53,12 @@ import Datatable from '@your-namespace/datatable-react';
 
 // Render the component with your data (using CSR)
 const data = [{ id: 1, name: 'John Doe', age: 30 }, { id: 2, name: 'Jane Smith', age: 25 }];
-const columns = ['id', 'name', 'age'];
 
 function App() {
   return (
     <Datatable
       data={data}
-      columns={columns}
+      paging
     />
   );
 }
