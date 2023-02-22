@@ -1,6 +1,6 @@
 # Datatable React Library Component Demo
 
-This is a demo website showcasing the features and capabilities of the Datatable React Library Component. The component is designed to provide an easy-to-use and highly 
+This is a demo website showcasing the features and capabilities of the Datatable React Library Component. The component is designed to provide an easy-to-use and highly
 customizable datatable for displaying and manipulating tabular data in React applications.
 
 ## Table of Contents
@@ -16,26 +16,27 @@ customizable datatable for displaying and manipulating tabular data in React app
 - [Contributing](#contributing)
 - [License](#license)
 
-
-
 ## Features
 
 The Datatable React Library Component comes with a wide range of features to make it easy and efficient to work with tabular data, including:
 
-* Sorting: Easily sort your data by clicking on the table headers
-* Filtering: Quickly filter your data to find the records you need
-* Pagination: Display large data sets in a user-friendly way with pagination
-* Customizable styling: Customize the look and feel of your table to match your application
-* Flexible data input: Accepts data in various formats, including arrays, objects, and JSON
+- Sorting: Easily sort your data by clicking on the table headers
+- Filtering: Quickly filter your data to find the records you need
+- Pagination: Display large data sets in a user-friendly way with pagination
+- Customizable styling: Customize the look and feel of your table to match your application
+- Flexible data input: Accepts data in various formats, including arrays, objects, and JSON
   
 ## Practical Demos
 
 To view how to the datatable will work in your React application, view this website:
+
 ### Without style
- - https://lephenix47-react-datatable-demo.vercel.app/
+
+- <https://lephenix47-react-datatable-demo.vercel.app/>
 
 ### With style
- - https://hrnet-p14.vercel.app/employees
+
+- <https://hrnet-p14.vercel.app/employees>
 
 ## Getting Started
 
@@ -65,10 +66,13 @@ function App() {
 ```
 
 # Documentation
+
 For more detailed information on how to use the Datatable React Library Component, please refer to the [documentation](https://github.com/LePhenix47/HRnet-Data-Table_npm-package/blob/master/README.md).
 
 # Contributing
+
 We welcome contributions from the community! To contribute to the Datatable React Library Component, please refer to our contributing guidelines (currently none).
 
 # License
+
 The Datatable React Library Component is open source and licensed under the ISC License.
